@@ -8,7 +8,7 @@
 
 ## General info 
 
-This is a console program, which calculates: credit and leasing rates, profit on shares, CIT and PIT and VAT tax.
+This is a console program, which calculates: credit and leasing rates, profit on shares and investments, CIT and PIT and VAT tax.
 ## Technologies 
 
 * Java 13 
